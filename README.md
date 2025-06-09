@@ -21,7 +21,9 @@ Humans intuitively perceive object shape and orientation from a single image, gu
 - [ ] Add codes of our augmented reality applications.
 - [ ] Add Blender add-on of our arrow-based manipulation.
 
+## 🔗 Citation
+If you find this work helpful, please consider citing:
+```BibTeXw
 
-
-
+```
 
