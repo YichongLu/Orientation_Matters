@@ -1,2 +1,2 @@
-# Orientation_Matters
+# Orientation Matters
 Official repository for the paper "Orientation Matters: Making 3D Generative Models Orientation-Aligned"
