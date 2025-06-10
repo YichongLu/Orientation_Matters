@@ -17,7 +17,7 @@ Humans intuitively perceive object shape and orientation from a single image, gu
 - [ ] Release Objaverse-OA dataset.
 - [ ] Add training codes.
 - [ ] Add evaluation codes.
-- [ ] Add codes of our augmented reality applications.
+- [ ] Add codes of our AR application.
 - [ ] Add Blender add-on of our arrow-based manipulation.
 
 ## 🔗 Citation
