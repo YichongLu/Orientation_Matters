@@ -5,7 +5,7 @@ Official repository for the paper "Orientation Matters: Making 3D Generative Mod
  
 ![Version](https://img.shields.io/badge/version-1.0.0-blue) &nbsp;
  <a href='https://xdimlab.github.io/Orientation_Matters/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
- <a href='https://arxiv.org/abs/2506.08640'><img src='https://img.shields.io/badge/arXiv-2506.01943-b31b1b.svg'></a> &nbsp;
+ <a href='https://arxiv.org/abs/2506.08640'><img src='https://img.shields.io/badge/arXiv-2506.08640-b31b1b.svg'></a> &nbsp;
  <a href=''><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> &nbsp;
 <img src='assets/teaser.png'></img>
 </div>
