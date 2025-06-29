@@ -27,7 +27,7 @@ Humans intuitively perceive object shape and orientation from a single image, gu
 ## 🔗 Citation
 If you find this work helpful, please consider citing:
 ```BibTeXw
-@misc{lu2025orientationmattersmaking3d,
+@misc{lu2025orientationmatters,
       title={Orientation Matters: Making 3D Generative Models Orientation-Aligned}, 
       author={Yichong Lu and Yuzhuo Tian and Zijin Jiang and Yikun Zhao and Yuanbo Yang and Hao Ouyang and Haoji Hu and Huimin Yu and Yujun Shen and Yiyi Liao},
       year={2025},
