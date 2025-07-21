@@ -18,9 +18,9 @@ Humans intuitively perceive object shape and orientation from a single image, gu
 - 2025.6.25 We release the [Huggingface Demo](https://huggingface.co/spaces/Louischong/Trellis-OA)🤗 and pre-trained [model](https://huggingface.co/Louischong/Trellis-OA)🤗 of Trellis-OA. Have a try!
 
 ### 📝 TODO List
-- [x] Add Huggingface demo and pre-trained checkpoint of Trellis-OA.
-- [x] Add checkpoint and code of Wonder3D-OA.
-- [x] Add checkpoint and code of the orientation estimation method.
+- [x] Add Huggingface demo, inference code and pre-trained checkpoint of Trellis-OA.
+- [x] Add checkpoint and inference code of Wonder3D-OA.
+- [x] Add checkpoint and inference code of the orientation estimation method.
 - [ ] Add evaluation data.
 - [ ] Release the Objaverse-OA dataset.
 - [ ] Add code of the augmented reality application.
@@ -35,13 +35,13 @@ Tested on NVIDIA A6000 and 3090 GPU.
 conda create -n orient_mat python=3.10
 conda activate orient_mat
 
-# Install cuda
+# install cuda
 conda install cuda -c nvidia/label/cuda-11.8.0
 
-# Install pytorch
+# install pytorch
 pip install torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0 --index-url https://download.pytorch.org/whl/cu118
 
-# Install xformers
+# install xformers
 pip install xformers==0.0.27.post2 --index-url https://download.pytorch.org/whl/cu118
 
 # install nvdiffrast
