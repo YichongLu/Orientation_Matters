@@ -120,7 +120,7 @@ huggingface-cli download --resume-download Louischong/Orientation_Estimation --l
 Run Trellis-OA using the shell script:
 
 ```
-sh run_wonder3d_oa.sh $IMG_PATH $SAVE_DIR $CHECKPOINT_DIR
+sh run_trellis_oa.sh $IMG_PATH $SAVE_DIR $CHECKPOINT_DIR
 ```
 
 where `$IMG_PATH` is the path to the image, `$SAVE_DIR` is the directory to save the results, and `$CHECKPOINT_DIR` is the directory containing the pretrained weights. The 3D model will be saved in `$SAVE_DIR/trellis_oa_results`.
