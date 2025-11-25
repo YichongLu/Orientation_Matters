@@ -111,13 +111,6 @@ mkdir -p ./checkpoints/orientation_estimation
 huggingface-cli download --resume-download Louischong/Orientation_Estimation --local-dir ./checkpoints/orientation_estimation
 ```
 
-## Dataset
-
-You can download the Objaverse-OA dataset from Huggingface:
-```
-huggingface-cli download --repo-type dataset --resume-download Louischong/Objaverse-OA --local-dir ./datasets/objaverse_oa
-```
-
 ## Inference
 
 ### Trellis-OA
@@ -166,6 +159,14 @@ For example, download the pretrained weights to `./checkpoints/orientation_estim
 
 ```
 sh run_orientation_estimation.sh assets/boat.png ./results/boat ./results/boat/trellis_oa_results/sample.glb ./checkpoints/orientation_estimation
+```
+
+
+## Dataset
+
+You can download the Objaverse-OA dataset from Huggingface:
+```
+huggingface-cli download --repo-type dataset --resume-download Louischong/Objaverse-OA --local-dir ./datasets/objaverse_oa
 ```
 
 ## Acknowledgement
