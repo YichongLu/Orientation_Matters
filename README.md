@@ -8,6 +8,7 @@ Official repository for the paper "Orientation Matters: Making 3D Generative Mod
  <a href='https://arxiv.org/abs/2506.08640'><img src='https://img.shields.io/badge/arXiv-2506.08640-b31b1b.svg'></a> &nbsp;
  <a href='https://huggingface.co/Louischong/Trellis-OA'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> &nbsp;
   <a href='https://huggingface.co/datasets/Louischong/Objaverse-OA'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-red'></a> &nbsp;
+  <a href='https://huggingface.co/spaces/Louischong/Trellis-OA'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-red'></a> &nbsp;
 <img src='assets/teaser.png'></img>
 </div>
 
